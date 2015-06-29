@@ -93,6 +93,10 @@ class SF_graph(Digraph):
         return self.edges
     
     def get_nodes(self):
+        """
+
+        :rtype : set of SF_intersections
+        """
         return self.nodes
     
 

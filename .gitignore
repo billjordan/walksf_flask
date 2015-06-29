@@ -4,3 +4,6 @@
 
 # eclipse
 .metadata/*
+
+walkSFapp/__pycache__/*
+*.pyc
